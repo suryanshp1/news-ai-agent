@@ -12,6 +12,12 @@ conda create -p venv python==3.11 -y
 conda activate ./venv
 ```
 
+- Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 - run application
 
 ```bash
